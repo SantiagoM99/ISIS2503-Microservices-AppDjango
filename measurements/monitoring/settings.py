@@ -133,5 +133,5 @@ STATICFILES_DIRS = (
     os.path.join(PROJECT_ROOT, 'static'),
 )
 
-PATH_VAR = "http://0.0.0.0:8080/variables"
-PATH_PS = "http://0.0.0.0:8080/places"
+PATH_VAR = "http://10.128.0.4:8080/variables"
+PATH_PS = "http://10.128.0.7:8080/places"
